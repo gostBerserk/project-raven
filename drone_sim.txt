@@ -1,0 +1,5 @@
+follow only, realistic sensing | max speed 1.5 m/s | 30 runs of 20 s runs with no ball hit: 0% hits per run: 3.40 mean standoff error: 0.41 m 
+follow + dodge, realistic sensing | max speed 1.5 m/s | 30 runs of 20 s runs with no ball hit: 97% hits per run: 0.03 mean standoff error: 0.51 m 
+follow + dodge, ideal sensing | max speed 1.5 m/s | 30 runs of 20 s runs with no ball hit: 100% hits per run: 0.00 mean standoff error: 0.49 m 
+follow + dodge, realistic sensing | max speed 1.0 m/s | 30 runs of 20 s runs with no ball hit: 93% hits per run: 0.07 mean standoff error: 0.54 m 
+follow + dodge, realistic sensing | max speed 2.5 m/s | 30 runs of 20 s runs with no ball hit: 100% hits per run: 0.00 mean standoff error: 0.50 m 

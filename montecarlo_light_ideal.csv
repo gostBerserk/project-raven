@@ -1,0 +1,4 @@
+thrust_N,accel_m_s2,pct_runs_without_hit,hits_per_run,touches_per_run,mean_dist_m
+0.3,0.5,76.667,0.333,1.667,0.361
+0.2,0.333,70.0,0.5,1.633,0.404
+0.1,0.167,20.0,1.4,0.8,0.54
